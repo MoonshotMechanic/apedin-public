@@ -1,0 +1,7 @@
+# This documentation repository deliberately allows only reviewed public files.
+*
+!.gitignore
+!README.md
+!CHANGELOG.md
+!SECURITY.md
+!TRANSPARENCY.md
