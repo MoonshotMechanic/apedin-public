@@ -4,6 +4,12 @@ Selected shipped milestones, written for people using apedin. This is not an exh
 
 Release dates below follow the existing product release records.
 
+## 0.21.5 — 2026-10-22
+
+- Made Ranked the default feed and preserved that preference for returning visitors.
+- Marked the Everyone feed as temporarily unavailable while keeping sign-up available.
+- Improved live-feed behavior during rate-limit cooldowns.
+
 ## 0.21.4 — 2026-10-22
 
 - Added public footer links and updated the support contact details.
