@@ -4,6 +4,12 @@ Selected shipped milestones, written for people using apedin. This is not an exh
 
 Release dates below follow the existing product release records.
 
+## 0.22.0 — 2026-10-22
+
+- Focused background history and engagement refreshes on ranked/KOL callers while keeping live discovery active.
+- Preserved existing history, XP awards, sign-up and community participation.
+- Added recovery for newly ranked callers and clearer freshness and queue coverage reporting.
+
 ## 0.21.5 — 2026-10-22
 
 - Made Ranked the default feed and preserved that preference for returning visitors.

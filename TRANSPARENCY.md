@@ -11,6 +11,7 @@ The current service does not execute trades or take custody of funds. Wallet con
 ## Data coverage and interpretation
 
 - **The feed is an observed dataset.** It is not a complete archive of every call, trader or market event. Collection start dates, interruptions and available history differ by source.
+- **Ranked refresh scope.** Background history and engagement refreshes focus on ranked/KOL identities. Live discovery and limited identity checks remain broader; existing records and XP awards are retained. Leaderboard delays, source limits and outages can still leave gaps. Non-ranked profile and engagement data may stop refreshing.
 - **Timing varies.** Posts, captures, refreshes and market snapshots can have different timestamps. Provider delays, browser-assisted collection and outages can affect freshness and completeness.
 - **Source attribution matters.** Imported records remain associated with their source. Similar names or contextual links do not prove that two accounts have the same owner.
 - **Profile claims have a separate boundary.** A claim or verified connection reflects the stated identity-check scope. It is not an endorsement, proof of legal identity or a financial qualification.
