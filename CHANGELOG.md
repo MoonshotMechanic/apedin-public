@@ -4,6 +4,11 @@ Selected shipped milestones, written for people using apedin. This is not an exh
 
 Release dates below follow the existing product release records.
 
+## 0.22.1 — 2026-10-22
+
+- Put Ranked first and keep it as the default view. Everyone opens a dedicated message panel while broad profile coverage is unavailable.
+- Start Pump background engagement collection with a one-time 24-hour lookback, then retain subsequent work as it ages. Existing call history and XP awards are retained.
+
 ## 0.22.0 — 2026-10-22
 
 - Focused background history and engagement refreshes on ranked/KOL callers while keeping live discovery active.
