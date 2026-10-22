@@ -4,6 +4,12 @@ Selected shipped milestones, written for people using apedin. This is not an exh
 
 Release dates below follow the existing product release records.
 
+## 0.22.3 — 2026-10-22
+
+- Replace feed-row Attention charts with counts of other currently ranked/KOL source accounts that mentioned the same token. Open the count to see each account’s latest recorded mention, time and available source links; repeated mentions count once per source account.
+- Keep ticker Attention available and clarify ranked refresh coverage in Settings, filters, alerts and activity descriptions.
+- Improve Ranked search and reduce database contention while retaining stored history and collection scope.
+
 ## 0.22.2 — 2026-10-22
 
 - Reduced memory overhead for Attention history and public statistics while preserving chart observations, stored records and collection coverage.
