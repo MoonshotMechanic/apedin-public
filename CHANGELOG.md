@@ -4,6 +4,15 @@ Selected shipped milestones, written for people using apedin. This is not an exh
 
 Release dates below follow the existing product release records.
 
+## 0.21.3 — 2026-10-22
+
+- Reuse the validated release build and add a production-sized resource rehearsal before rollout. Keep fresh pre-release backups and scheduled restore checks.
+
+## 0.21.2 — 2026-10-22
+
+- Added the experimental Observations page, summarising caller market-cap habits and overlapping community participation from recorded calls.
+- Observations refreshes daily from completed UTC days and shows its date range, sample sizes and most recent update status.
+
 ## 0.20.1 — 2026-10-20
 
 - Refreshed browser assets so returning visitors receive the updated ticker history, mobile drawer handle and stream metrics.

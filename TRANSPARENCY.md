@@ -16,6 +16,7 @@ The current service does not execute trades or take custody of funds. Wallet con
 - **Profile claims have a separate boundary.** A claim or verified connection reflects the stated identity-check scope. It is not an endorsement, proof of legal identity or a financial qualification.
 - **Metrics need context.** Prices, market caps, holder counts and positions can be provider-reported snapshots. They are not independently verified entry prices, realised returns or promises of future performance.
 - **Attention measures observed activity.** Experimental Attention indicators are not price predictions or token safety scores. Missing coverage should be interpreted as unavailable information, not zero activity.
+- **Observations summarise the recorded dataset.** Experimental caller-habit and participation views use completed UTC days, show their covered date range and sample size, and can change as the recorded dataset grows. They are not forecasts, investment recommendations or a complete view of market activity.
 - **Progression is service recognition.** XP, levels, badges and prestige are not money, an entitlement to a token, or evidence of investment skill.
 
 An integration or source label does not imply a partnership or endorsement by that provider. Linked platforms have their own terms and policies.
