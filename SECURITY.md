@@ -2,7 +2,7 @@
 
 ## Report a vulnerability privately
 
-Email [apedinlive@outlook.com](mailto:apedinlive@outlook.com) with the subject **apedin security report**.
+Email [apedinfamily@outlook.com](mailto:apedinfamily@outlook.com) with the subject **apedin security report**.
 
 Please do not put vulnerability details, account data or exploit demonstrations in public issues, discussions or social posts. GitHub private vulnerability reporting is not required to use this email channel.
 
