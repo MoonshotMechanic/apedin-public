@@ -4,6 +4,11 @@ Selected shipped milestones, written for people using apedin. This is not an exh
 
 Release dates below follow the existing product release records.
 
+## 0.21.4 — 2026-10-22
+
+- Added public footer links and updated the support contact details.
+- Improved sign-in loading so it remains stable while account services initialise.
+
 ## 0.21.3 — 2026-10-22
 
 - Reuse the validated release build and add a production-sized resource rehearsal before rollout. Keep fresh pre-release backups and scheduled restore checks.

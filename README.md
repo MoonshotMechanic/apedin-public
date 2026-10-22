@@ -4,7 +4,7 @@
 
 apedin brings meme-coin callouts and community discussion into one place, with source attribution and context for the activity you see.
 
-[Open apedin](https://apedin.family/) · [Changelog](CHANGELOG.md) · [Transparency](TRANSPARENCY.md) · [Security](SECURITY.md)
+[Open apedin](https://apedin.family/) · [Follow on X](https://x.com/apedinfamily) · [Changelog](CHANGELOG.md) · [Transparency](TRANSPARENCY.md) · [Security](SECURITY.md)
 
 ## What you can do
 
@@ -25,7 +25,7 @@ Publishing these documents does not make the application open source or provide 
 
 ## Feedback and support
 
-For a reproducible product bug or feature suggestion, email [apedinlive@outlook.com](mailto:apedinlive@outlook.com). Include the page, what you expected, what happened and your browser/device where relevant.
+For a reproducible product bug or feature suggestion, email [apedinfamily@outlook.com](mailto:apedinfamily@outlook.com). Include the page, what you expected, what happened and your browser/device where relevant.
 
 Report suspected vulnerabilities **privately**, following our [security policy](SECURITY.md). Account, privacy and content-removal requests should also go through email rather than a public discussion.
 

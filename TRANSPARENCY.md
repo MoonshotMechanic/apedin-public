@@ -27,7 +27,7 @@ Browsing the feed does not require an account. Participation features require si
 
 Our [Privacy Policy](https://apedin.family/privacy) explains information handling and requests for access, correction or removal. Our [Terms of Use](https://apedin.family/terms) explain participation, content and account rules. Those policies remain the primary documents for those subjects.
 
-Use [apedinlive@outlook.com](mailto:apedinlive@outlook.com) for account, privacy and content concerns. Please keep personal information out of public reports.
+Use [apedinfamily@outlook.com](mailto:apedinfamily@outlook.com) for account, privacy and content concerns. Please keep personal information out of public reports.
 
 ## Security review evidence
 
