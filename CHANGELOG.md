@@ -4,6 +4,13 @@ Selected shipped milestones, written for people using apedin. This is not an exh
 
 Release dates below follow the existing product release records.
 
+## 0.24.0 — 2026-10-23
+
+- Complete the Atlas public profile design with artwork, clearer activity sections and account-specific totals.
+- Add a browsable trader directory and improve public profile search and sharing metadata. Sparse profiles remain excluded from indexing.
+- Focus Hot/Rising discovery on ranked/KOL activity and token timelines on eligible ranked/KOL accounts and Apedin members.
+- Improve Pump history refresh scheduling and hide confirmed-empty other-caller badges.
+
 ## 0.23.0 — 2026-10-23
 
 - Add public pages for supported imported trader profiles, with source-specific captured activity and links back to the interactive profile drawer.
