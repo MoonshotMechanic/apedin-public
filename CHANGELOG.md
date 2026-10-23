@@ -4,6 +4,10 @@ Selected shipped milestones, written for people using apedin. This is not an exh
 
 Release dates below follow the existing product release records.
 
+## Reliability update — 2026-10-24
+
+- Restore site access after a connection interruption and add automatic recovery when an application restart leaves its public connection stale.
+
 ## 0.25.2 — 2026-10-24
 
 - Clarify that referral buttons open platform signup or landing pages, keep trader profile links separate, and label Axiom handle links as landing links rather than verified profile URLs.
