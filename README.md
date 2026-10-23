@@ -10,7 +10,7 @@ apedin brings meme-coin callouts and community discussion into one place, with s
 
 - Browse callouts from supported sources including Pump, FOMO, GMGN and Axiom.
 - Explore token rooms, caller profiles and source-linked activity histories.
-- Open supported public trader profiles with dated social and trading-account links; connection evidence is shown separately from ownership verification.
+- Browse the [trader directory](https://apedin.family/traders) and open supported public profiles with recorded activity, account-specific totals and dated social and trading-account links. Connection evidence is shown separately from ownership verification.
 - Sign in to post calls, reply and participate in discussions.
 - Follow callers and use filters to focus your feed.
 - See which other currently ranked/KOL source accounts mentioned a token, with a latest-mention list from captured history.
