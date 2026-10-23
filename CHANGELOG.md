@@ -4,6 +4,10 @@ Selected shipped milestones, written for people using apedin. This is not an exh
 
 Release dates below follow the existing product release records.
 
+## 0.25.2 — 2026-10-24
+
+- Clarify that referral buttons open platform signup or landing pages, keep trader profile links separate, and label Axiom handle links as landing links rather than verified profile URLs.
+
 ## 0.25.1 — 2026-10-23
 
 - Keep previously served profile and token images available during background refreshes, within bounded cache storage, so existing pages continue to display them.
