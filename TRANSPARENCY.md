@@ -1,6 +1,6 @@
 # Transparency
 
-Document prepared: **22 October 2026**. Individual assessment dates below describe when that work happened, not a fresh scan of the current service.
+Document prepared: **23 October 2026**. Individual assessment dates below describe when that work happened, not a fresh scan of the current service.
 
 ## What apedin does
 
@@ -15,6 +15,8 @@ The current service does not execute trades or take custody of funds. Wallet con
 - **Ranked refresh scope.** Background history and engagement refreshes focus on ranked/KOL identities. Live discovery and limited identity checks remain broader; existing records and XP awards are retained. Leaderboard delays, source limits and outages can still leave gaps. Non-ranked profile and engagement data may stop refreshing.
 - **Timing varies.** Posts, captures, refreshes and market snapshots can have different timestamps. Provider delays, browser-assisted collection and outages can affect freshness and completeness.
 - **Source attribution matters.** Imported records remain associated with their source. Similar names or contextual links do not prove that two accounts have the same owner.
+- **Researched connections are dated evidence.** Public trader pages can show source-linked or confirmed public connections. These labels do not establish proof of control, merge trading histories, or grant ownership or XP. Unresolved research leads and referral links are not presented as confirmed trading accounts. Research links can expire or be removed; use the profile’s correction-support link if a connection is wrong.
+- **Public pages and indexing differ.** Supported source accounts can have public pages while sparse pages remain excluded from search indexing. Eligible pages enter the sitemap, but search engines decide whether to index them.
 - **Profile claims have a separate boundary.** A claim or verified connection reflects the stated identity-check scope. It is not an endorsement, proof of legal identity or a financial qualification.
 - **Metrics need context.** Prices, market caps, holder counts and positions can be provider-reported snapshots. They are not independently verified entry prices, realised returns or promises of future performance.
 - **Other ranked mentions use captured history.** Feed-row counts refer to other currently ranked/KOL source accounts recorded mentioning the same token. Repeat mentions from one source account count once, the row’s caller is excluded, and the detail list shows each account’s latest recorded mention. Accounts on different platforms are counted separately; this is not a count of independently verified people or a complete record of every mention.

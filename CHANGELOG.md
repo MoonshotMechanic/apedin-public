@@ -4,6 +4,12 @@ Selected shipped milestones, written for people using apedin. This is not an exh
 
 Release dates below follow the existing product release records.
 
+## 0.23.0 — 2026-10-23
+
+- Add public pages for supported imported trader profiles, with source-specific captured activity and links back to the interactive profile drawer.
+- Refresh public profile and drawer layouts and show researched connections with evidence labels and check dates.
+- Keep research links separate from ownership verification, account permissions and XP. Unresolved identity leads remain unpublished; sparse profiles are excluded from search indexing.
+
 ## 0.22.4 — 2026-10-23
 
 - Rename Prestige to Evolution across progression labels and use E 0–E 10 for avatar badges. Levels, XP and earned artwork are unchanged.
