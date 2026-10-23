@@ -4,6 +4,10 @@ Selected shipped milestones, written for people using apedin. This is not an exh
 
 Release dates below follow the existing product release records.
 
+## 0.25.1 — 2026-10-23
+
+- Keep previously served profile and token images available during background refreshes, within bounded cache storage, so existing pages continue to display them.
+
 ## 0.25.0 — 2026-10-23
 
 - Align normal and compact feed cards beside an avatar/rank column, with larger clickable source badges, three visible badges plus overflow, and only current confirmed connections included in additional ranks.
