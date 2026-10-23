@@ -4,7 +4,7 @@ Selected shipped milestones, written for people using apedin. This is not an exh
 
 Release dates below follow the existing product release records.
 
-## Unreleased
+## 0.22.4 — 2026-10-23
 
 - Rename Prestige to Evolution across progression labels and use E 0–E 10 for avatar badges. Levels, XP and earned artwork are unchanged.
 

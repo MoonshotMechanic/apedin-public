@@ -20,7 +20,7 @@ The current service does not execute trades or take custody of funds. Wallet con
 - **Other ranked mentions use captured history.** Feed-row counts refer to other currently ranked/KOL source accounts recorded mentioning the same token. Repeat mentions from one source account count once, the row’s caller is excluded, and the detail list shows each account’s latest recorded mention. Accounts on different platforms are counted separately; this is not a count of independently verified people or a complete record of every mention.
 - **Attention measures observed activity.** Experimental Attention indicators are not price predictions or token safety scores. Missing coverage should be interpreted as unavailable information, not zero activity.
 - **Observations summarise the recorded dataset.** Experimental caller-habit and participation views use completed UTC days, show their covered date range and sample size, and can change as the recorded dataset grows. They are not forecasts, investment recommendations or a complete view of market activity.
-- **Progression is service recognition.** XP, levels, badges and prestige are not money, an entitlement to a token, or evidence of investment skill.
+- **Progression is service recognition.** XP, levels, badges and evolution are not money, an entitlement to a token, or evidence of investment skill.
 
 An integration or source label does not imply a partnership or endorsement by that provider. Linked platforms have their own terms and policies.
 
