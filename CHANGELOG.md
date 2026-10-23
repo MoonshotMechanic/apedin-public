@@ -4,6 +4,29 @@ Selected shipped milestones, written for people using apedin. This is not an exh
 
 Release dates below follow the existing product release records.
 
+## 0.25.0 — 2026-10-23
+
+- Align normal and compact feed cards beside an avatar/rank column, with larger clickable source badges, three visible badges plus overflow, and only current confirmed connections included in additional ranks.
+
+- Add disclosed platform referral links, with optional member-owned links on their own or approved-claimed profiles; keep account evidence and referral destinations separate.
+
+- Enrich in-app trader profiles from exact source-account research independently of public-page eligibility, keeping uncertain links separate and source snapshots dated.
+
+- Add reserved, readable main trader profile addresses, with confirmed trading accounts shown separately and existing source links preserved.
+
+- Add a neutral Graphite default profile banner with a subtle public profile address.
+
+- Cache imported profile pictures and token icons as local thumbnails, with background refresh and local placeholders; callout attachments retain their existing behavior.
+- Show profile-picture upload and removal feedback beside the picture controls, including file validation errors.
+- Hide ranked discovery sorting controls in Following and Saved; Hot and Rising remain scoped to ranked/KOL activity.
+- Present supported profile links as compact header icons with overflow, and use platform marks on source ranking chips while retaining connection evidence.
+- Refine the Everyone coming-soon panel with clearer typography, concise copy, and a styled ranked-feed action.
+- Improve desktop token-strip text within the original card dimensions, preserving mobile sizing and containing long names.
+- Require sign-in to save calls or research notes. Saved content remains local to the browser.
+
+- Use readable, stable trader profile addresses with redirects from older links.
+- Copy public trader profile links directly from the profile drawer.
+
 ## 0.24.0 — 2026-10-23
 
 - Complete the Atlas public profile design with artwork, clearer activity sections and account-specific totals.
