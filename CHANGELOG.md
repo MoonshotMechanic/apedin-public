@@ -4,6 +4,10 @@ Selected shipped milestones, written for people using apedin. This is not an exh
 
 Release dates below follow the existing product release records.
 
+## 0.22.4 — 2026-10-23
+
+- Rename Prestige to Evolution across progression labels and use E 0–E 10 for avatar badges. Levels, XP and earned artwork are unchanged.
+
 ## 0.22.3 — 2026-10-22
 
 - Replace feed-row Attention charts with counts of other currently ranked/KOL source accounts that mentioned the same token. Open the count to see each account’s latest recorded mention, time and available source links; repeated mentions count once per source account.
