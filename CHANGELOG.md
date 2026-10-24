@@ -4,9 +4,9 @@ Selected shipped milestones, written for people using apedin. This is not an exh
 
 Release dates below follow the existing product release records.
 
-## Discord sign-in — 2026-10-24
+## Additional sign-in options — 2026-10-24
 
-- Enable Discord under **More ways to join**, with successful sign-in continuing to optional profile setup.
+- Enable Apple, Discord and Telegram under **More ways to join**, with successful sign-in continuing to optional profile setup.
 
 ## 0.26.0 — 2026-10-24
 
