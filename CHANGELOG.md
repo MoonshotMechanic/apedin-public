@@ -4,9 +4,23 @@ Selected shipped milestones, written for people using apedin. This is not an exh
 
 Release dates below follow the existing product release records.
 
+## 0.26.0 — 2026-10-24
+
+- Add optional, resumable profile onboarding with public social links and multiple self-added trading profiles. Keep available sign-in options limited to providers enabled for the live site.
+
+- Add a guest preview with three readable fresh calls, locked leading ticker cards, and grayed token rooms; signing in unlocks the full interface.
+
+- Reduce memory peaks while processing imported profile pictures and token icons.
+
+- Remove standalone platform referral panels from profiles and token details; retain referral attribution on supported existing destination links.
+
 ## Reliability update — 2026-10-24
 
 - Restore site access after a connection interruption and add automatic recovery when an application restart leaves its public connection stale.
+
+## Email branding — 2026-10-24
+
+- Set the sign-in email brand name to **apedin.family**.
 
 ## 0.25.2 — 2026-10-24
 
