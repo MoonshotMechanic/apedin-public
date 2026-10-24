@@ -4,6 +4,15 @@ Selected shipped milestones, written for people using apedin. This is not an exh
 
 Release dates below follow the existing product release records.
 
+## 0.27.0 — 2026-10-24
+
+- Add optional founding-member invite codes and shareable signup links. Signup remains free; a code adds founding-member status, not ownership verification, XP or paid access.
+- Add profile-video previews using supported, source-labelled performance snapshots. Available periods and figures depend on the source; unsupported results are omitted. MP4 downloads are not available yet.
+- Add an animated Tension Ribbon for market sentiment, alongside a separate captured call-activity rate. Reduced-motion preferences are respected.
+- Add Good Calls to profile histories, showing positive recorded source P/L snapshots rather than live or independently verified returns. The full Calls history remains available.
+- Simplify public profile backgrounds and improve performance-badge readability.
+- Reduce image download sizes, align browser cache keys, improve feed accessibility labels, and reduce unnecessary work when building profile sitemaps.
+
 ## Additional sign-in options — 2026-10-24
 
 - Enable Apple, Discord and Telegram under **More ways to join**, with successful sign-in continuing to optional profile setup.
