@@ -4,6 +4,10 @@ Selected shipped milestones, written for people using apedin. This is not an exh
 
 Release dates below follow the existing product release records.
 
+## Discord sign-in — 2026-10-24
+
+- Enable Discord under **More ways to join**, with successful sign-in continuing to optional profile setup.
+
 ## 0.26.0 — 2026-10-24
 
 - Add optional, resumable profile onboarding with public social links and multiple self-added trading profiles. Keep available sign-in options limited to providers enabled for the live site.
