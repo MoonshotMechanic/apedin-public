@@ -4,6 +4,15 @@ Selected shipped milestones, written for people using apedin. This is not an exh
 
 Release dates below follow the existing product release records.
 
+## Unreleased — loading and accessibility improvements
+
+- Prepare smaller brand and source images to reduce page downloads.
+- Remove duplicate shared-script downloads.
+- Improve feed-tab accessibility, chart-link descriptions, and desktop text contrast.
+- Reserve space for callout attachments and remove an unnecessary gauge color transition.
+
+These changes are not yet deployed; a new live performance score has not been verified.
+
 ## Additional sign-in options — 2026-10-24
 
 - Enable Apple, Discord and Telegram under **More ways to join**, with successful sign-in continuing to optional profile setup.
